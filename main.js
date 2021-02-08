@@ -35,19 +35,21 @@ function AddColor(){
             addColor[i].onclick = function(event) {
             event.target.style.backgroundColor = color(color) ;
             console.log("Color Add !")
+            
         }
+ 
 
     }
 }
-AddColor()
- //select Color
 
+AddColor()
+
+ 
 //Return of the Selected Color 
 function color (){
     let color = document.querySelector('#Button').value;
     return color ;
 }
-
 
 
 
