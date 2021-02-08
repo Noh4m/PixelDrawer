@@ -29,12 +29,15 @@ body {
 
 
 
-#Btn-color {
+
+
+#test {
     margin: 0;
     position: absolute;
     top: 50px;
-    left: 56%;
-
+    left: 54.7%;
+    z-index: 10;
+    display: flex;
 
 }
 
@@ -48,7 +51,8 @@ body {
 #remove {
     height: 50px;
     position: relative;
-    top: -15px;
+    margin-right: 30px;
+
 
 }
 
