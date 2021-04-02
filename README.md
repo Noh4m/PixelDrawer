@@ -7,7 +7,7 @@ If you want try Pixel drawer you can  on this link
 
 https://pixel-drawer.netlify.app
 
-or you can download him in your computer if you are already github on your computer 
+or you can download him in your computer if you are already Git on your computer 
     
     git clone https://github.com/Noh4m/PixelDrawer
     
